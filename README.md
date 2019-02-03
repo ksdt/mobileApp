@@ -2,7 +2,7 @@
 Listen to KSDT Radio on the go !
 
 ## First Time Setup
-Make sure you have Node.js installed on your machine. To check if you have node installed, type `npm -v` and if numbers appear then your computer already has Node.js and you're good to go.
+Make sure you have [Node.js](https://nodejs.org/en/) installed on your machine. To check if you have node installed, type `npm -v` and if numbers appear then your computer already has Node.js and you're good to go.
 
 Once Node.js is installed run the following command to install [React Native](https://facebook.github.io/react-native/):
 ```
