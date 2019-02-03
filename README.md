@@ -34,9 +34,9 @@ You should see a QR on your command line if the project ran successfully.
 ## Using Emulators
 The simplest way is to download the Expo Client App on your mobile device to view the project.
 
-On iOS, once you've dowloaded the Expo Client App, open the camera and scan the QR code on the terminal.
+On **iOS**, once you've dowloaded the Expo Client App, open the camera and scan the QR code on the terminal.
 
-On Andriod, scan the QR code using the Expo Client App.
+On **Andriod**, scan the QR code using the Expo Client App.
 
 If any troubles persist, you can also run the app using emulators. 
 
