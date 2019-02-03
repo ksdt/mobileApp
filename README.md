@@ -10,7 +10,7 @@ npm install -g create-react-native-app
 ```
 If permission errors occur, try running the command as an Administrator: `sudo npm install -g create-react-native-app`
 
-React Native requires the Expo Client to run so run the following command to install it:
+React Native requires the Expo Client as a dependency so run the following command to install it:
 ```
 npm install --global expo-cli
 ```
